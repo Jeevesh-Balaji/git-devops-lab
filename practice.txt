@@ -1,3 +1,2 @@
 This is the original content.
-This line should be reviewed first.
 Temporary configuration change.
